@@ -168,7 +168,7 @@ If you use this work in your research, please cite it as:
 @misc{your2024project,
   author       = {Your Name},
   title        = {Your Project Title},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/your-username/your-repo}},
