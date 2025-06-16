@@ -1,9 +1,8 @@
+# Project Name <br><sub><sup>A one-line description of what this project does or solves</sup></sub>
 <p align="left">
   <img src="https://drive.google.com/uc?export=view&id=19cBCYrAndz6ncbx-QxSa4ZpPvYVZ-cxK" width="80" alt="Lab Logo" />
 </p>
 
-# Project Name <br><sub><sup>A one-line description of what this project does or solves</sup></sub>
----
 [![🤖 HF Models](https://img.shields.io/badge/%F0%9F%A4%96-models-yellow)](https://huggingface.co/models?library=your-library-name)
 [![GitHub - License](https://img.shields.io/github/license/your-org/your-repo?logo=github&style=flat&color=green)](https://github.com/your-org/your-repo/blob/main/LICENSE)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/your-package?logo=pypi&style=flat&color=blue)](https://pypi.org/project/your-package)
