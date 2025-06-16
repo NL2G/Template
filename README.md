@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://drive.google.com/uc?export=view&id=19cBCYrAndz6ncbx-QxSa4ZpPvYVZ-cxK" width="80" alt="Lab Logo" />
+</p>
+
 # Project Name <br><sub><sup>A one-line description of what this project does or solves</sup></sub>
 ---
 [![🤖 HF Models](https://img.shields.io/badge/%F0%9F%A4%96-models-yellow)](https://huggingface.co/models?library=your-library-name)
